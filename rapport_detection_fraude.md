@@ -1,9 +1,10 @@
 # Rapport Scientifique : Détection de Fraude par Carte Bancaire
 ## Analyse Prédictive par Apprentissage Automatique
 
----
+---![Analyse statistique](![WhatsApp Image 2025-10-25 at 18 34 06_2d8a60b6](https://github.com/user-attachments/assets/aa5ee2b3-c786-4239-8eab-3437f3a8b8ee)
+)
 
-**Auteur** : [Votre Nom]  
+**Auteur** : [Doumbouya Moussa]  
 **Date** : Décembre 2025  
 **Contexte** : Projet d'Analyse de Données et Machine Learning
 

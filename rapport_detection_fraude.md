@@ -355,7 +355,9 @@ L'arbre de décision représente un compromis intéressant mais sa stabilité li
 
 **Interprétation :**
 La Forêt Aléatoire offre le meilleur compromis entre performances et stabilité. Avec 82,32% de recall, elle détecte la grande majorité des fraudes tout en maintenant un F1-Score élevé, indiquant peu de faux positifs. L'agrégation de 100 arbres réduit significativement la variance observée avec un arbre unique.
-
+Le graphique
+![Analyse statistique](![WhatsApp Image 2025-12-04 at 12 21 13_69473275](https://github.com/user-attachments/assets/43b02591-31d0-4fbb-affb-854c903fd18c)
+)
 ### 3.3 Analyse Approfondie des Résultats
 
 #### 3.3.1 Trade-off Recall vs Précision

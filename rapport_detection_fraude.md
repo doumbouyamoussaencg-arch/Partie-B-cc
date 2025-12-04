@@ -452,7 +452,8 @@ Les performances obtenues sont comparables aux études de référence :
 
 **Conclusion :** Nos résultats sont alignés avec l'état de l'art, validant la méthodologie.
 
----
+---![Analyse statistique](![WhatsApp Image 2025-12-04 at 12 35 58_ae9359ad](https://github.com/user-attachments/assets/72de79a1-c7fc-48c7-8bfb-1928132d1e4a)
+)
 
 ## 4. Conclusion
 
